@@ -1,0 +1,31 @@
+41037 Station 41037 - ILM3 - 27 miles SE of Wrightsville Beach, NC (Data from 2009-2014 is available)
+41013 Station 41013 (LLNR 815) - Frying Pan Shoals, NC Buoy (Data for 2007, 2008 is available)
+
+
+You can go this link and find the station codes
+http://www.ndbc.noaa.gov/historical_data.shtml#adcp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41001 - 2010
+41025 - 2009
+41037 - 2008
+41038 - 2007, 2008
+OCPN7 - 2008, 2009, 2013
+41024 - 2007, 2008, 2009
+41029 - 2007,2008,2009
+41033 - 2007,2008
+41008 - 2005,2006,2009,2010
+41010 - 2010
+41036 - 2007,2008,2009,2010,2011,2012
